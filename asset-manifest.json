@@ -1,0 +1,13 @@
+{
+  "main.css": "/redux-persist-todo-app/build/static/css/main.190ee71b.chunk.css",
+  "main.js": "/redux-persist-todo-app/build/static/js/main.757b8376.chunk.js",
+  "main.js.map": "/redux-persist-todo-app/build/static/js/main.757b8376.chunk.js.map",
+  "runtime~main.js": "/redux-persist-todo-app/build/static/js/runtime~main.c8c68fb4.js",
+  "runtime~main.js.map": "/redux-persist-todo-app/build/static/js/runtime~main.c8c68fb4.js.map",
+  "static/js/2.1b35dce5.chunk.js": "/redux-persist-todo-app/build/static/js/2.1b35dce5.chunk.js",
+  "static/js/2.1b35dce5.chunk.js.map": "/redux-persist-todo-app/build/static/js/2.1b35dce5.chunk.js.map",
+  "index.html": "/redux-persist-todo-app/build/index.html",
+  "precache-manifest.0854902692f5cf58633481014916daed.js": "/redux-persist-todo-app/build/precache-manifest.0854902692f5cf58633481014916daed.js",
+  "service-worker.js": "/redux-persist-todo-app/build/service-worker.js",
+  "static/css/main.190ee71b.chunk.css.map": "/redux-persist-todo-app/build/static/css/main.190ee71b.chunk.css.map"
+}
