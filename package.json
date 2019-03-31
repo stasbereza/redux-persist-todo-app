@@ -44,5 +44,5 @@
     "eslint-plugin-react": "^7.12.4",
     "prettier": "^1.16.4"
   },
-  "homepage": "http://stasbereza.github.io/redux-persist-todo-app"
+  "homepage": "http://stasbereza.github.io/redux-persist-todo-app/build"
 }
