@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/redux-persist-todo-app/build/precache-manifest.0854902692f5cf58633481014916daed.js"
+  "/redux-persist-todo-app/precache-manifest.557bea4f48c5648db37df3b8bf4edcfe.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/redux-persist-todo-app/build/index.html", {
+workbox.routing.registerNavigationRoute("/redux-persist-todo-app/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
